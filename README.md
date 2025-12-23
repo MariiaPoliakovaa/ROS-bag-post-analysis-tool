@@ -26,5 +26,5 @@ This diagram shows the flow of camera data and timestamps through a ROS2 pipelin
     jupyter lab
 3. **Place the script in the ROS bag directory**
     ```bash
-    (e.g., rosbag_v.x/) use v2 and v5
+    (e.g., rosbag_v.x/) sensor-analyse for the individual statistic and time_analyse for the transmition analyse
 4. **Run the script and observe the results**
